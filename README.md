@@ -12,3 +12,8 @@ A simple Java program to revese elements of an ArrayList using an <b> iterative 
       <li>Print the elements in reverse order</li>
   </ol>
 </div>
+<h1> ✍️Concept Used</h1>
+<div>
+  <ul>
+    <li>Java collection framework </li>
+   
