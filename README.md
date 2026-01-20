@@ -16,4 +16,13 @@ A simple Java program to revese elements of an ArrayList using an <b> iterative 
 <div>
   <ul>
     <li>Java collection framework </li>
-   
+     <li>ArrayList</li>
+    <li>For loop</li>
+    <li><b>list.Size</b></li>
+    <li>Index based acesses using <b>get</b></li>
+  </ul>
+</div>
+<h1>📂 Code Explation</h1>
+<div>
+  <ol> 
+    
