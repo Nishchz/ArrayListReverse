@@ -31,6 +31,17 @@ A simple Java program to revese elements of an ArrayList using an <b> iterative 
     <li>Ements are printed in revese order</li>
    </ol>
 </div>
+<h1> ⌛Time Complexity Of This Code</h1>
+<div>
+  <ul>
+    <li>If the ArrayList contains n elements</li>
+    <li> The loop runs exatly n times</li>
+    <li> Each elements is accessed once</li>
+    <li>Time Compleity =<mark><b> o(n) Linear</b></mark></li>
+  </ul>
+</div>
+
+   
 
 
     
