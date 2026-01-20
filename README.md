@@ -25,4 +25,12 @@ A simple Java program to revese elements of an ArrayList using an <b> iterative 
 <h1>📂 Code Explation</h1>
 <div>
   <ol> 
+  <li><b>List.size</b> return the total number of elements </li>
+    <li><b> List.size-1 </b> gives the <b><mark> Last elements</mark></b></li>
+    <li>Loop runs from last index to 0</li>
+    <li>Ements are printed in revese order</li>
+   </ol>
+</div>
+
+
     
